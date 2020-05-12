@@ -54,8 +54,8 @@ logo = """
 \033[1;94m    \ \_\  \ \_\  \ \_____\  \ \_____\  \ \_\ \_\ 
 \033[1;93m     \/_/   \/_/   \/_____/   \/_____/   \/_/ /_/ 
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║
-\033[1;96m    ║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗  𝕸𝖗.𝕽𝖆𝖓𝖆 𝕬𝖆𝖍𝖎𝖑               ║    
-\033[1;98m    ║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ Aahil Creations            ║  
+\033[1;96m    ║✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗  abdullah              ║    
+\033[1;98m    ║✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ☪ Abdullah Creations            ║  
 \033[1;96m    ║✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊  ║
 \033[1;91m    ║══▒═💀═▒═💀═▒═══¤═¤═¤════════════¤═══¤═══¤═══║"""
 def tik():
@@ -65,8 +65,8 @@ def tik():
 
 
 back = 0
-berhasil = []
-cekpoint = []
+open= []
+close = []
 oks = []
 id = []
 listgrup = []
@@ -79,8 +79,8 @@ print  """
 \033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR AAHIL ~
 \033[1;97m************************************************
 
-\033[1;95m____─▄───────▄█▄───────▄─ Stay Home 💓
-\033[1;95m____▐█▌──▄──█████──▄──▐█▌ Stay Safe 💓
+\033[1;95m____─▄───────▄█▄───────▄─ Happy Birthday 💓
+\033[1;95m____▐█▌──▄──█████──▄──▐█▌ Mishi 💓
 \033[1;95m____─█──███▄▄███▄▄███──█─ 
 \033[1;95m____░█░░█▄█▄█▀▒▀█▄█▄█░░█░ 
 \033[1;95m____██▄▄█▄█▄█▒▒▒█▄█▄█▄▄██ 
@@ -96,23 +96,23 @@ jalan("\033[1;92m |_| ")
 
 
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Ally"
+CorrectPassword = "Ally"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m🗝 \x1b[1;95mTool Password \x1b[1;91m»» \x1b[1;91m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:love_hacker
+            print "Logged in successfully as " + username #Abdullah_Javeed
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://m.facebook.com/AFTHZ420
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://m.facebook.com/AFTHZ420
 
 def login():
 	os.system('clear')
